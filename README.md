@@ -8,3 +8,8 @@ Submitted and Presented By:
 - Level: MCS
 - Seat Number: EP-20101030
 - Department: Dept. of Computer Science - University of Karachi
+
+# Project Preview
+![Introduction](images/Screenshot_4.jpg)
+![HotZones](images/Screenshot_8.jpg)
+![Timeline](images/Screenshot_9.jpg)
